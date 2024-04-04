@@ -3,12 +3,15 @@
 #include "Air_Speed.h"
 #include "AoA.h"
 #include "SensorFactory.h"
+#include "AerospaceControlSystem.h"
 
 using namespace std;
 
 void Q1() {
 
-	SensorFactory sensorfactory;
-	Sensor* aoa1 = sensorfactory.createSensor("AoA");
-	aoa1->gatherData();
+	AerospaceControlSystem ctlSys;
+	ctlSys.addSensor("AoA");
+	ctlSys.addSensor("Altitude");
+	ctlSys.addSensor("AirSpeed");
+	ctlSys.monitorAndAdjust();
 }
