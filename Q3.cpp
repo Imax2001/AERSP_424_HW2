@@ -10,9 +10,12 @@
 using namespace std;
 
 mutex m;
+
+// global queue represents 'traffic pattern'
 queue<int> traffic;
 
 void contact_ATC() {
+	// 'Plane' thread attempts to talk to ATC if no other 'Plane' is
 	m.lock();
 	this_thread::sleep_for(chrono::seconds(1));
 	int pid = traffic.front();
@@ -26,6 +29,7 @@ void Q3() {
 	cout << "-------------------------- Begin Q3 --------------------------" << endl;
 	vector<thread> planes;
 	srand(time(NULL));
+	// Main thread loops, spawning threads to represent each Plane
 	for (int i = 1; i <= 10; i++) {
 		this_thread::sleep_for(chrono::milliseconds(rand() % 1001));
 		if (traffic.size() < 3) {

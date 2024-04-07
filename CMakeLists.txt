@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.14.0)
-project(OpenGLExample VERSION 0.1.0 LANGUAGES C CXX)
+project(AERSP_424_HW2 VERSION 0.1.0 LANGUAGES C CXX)
 
 include(CTest)
 enable_testing()
@@ -32,9 +32,8 @@ FetchContent_Declare(
 )
 FetchContent_MakeAvailable(glew)
 # Our Project
-set(SOURCE_FILES
-    main.cpp)
-
+set(SOURCE_FILES AERSP_424_HW2.cpp Air_Speed.cpp AerospaceControlSystem.cpp Altitude.cpp AoA.cpp Q1.cpp Q2.cpp Q3.cpp Sensor.cpp SensorFactory.cpp Tools.cpp)
+include_directories(${CMAKE_SOURCE_DIR}/include)
 add_executable(${PROJECT_NAME} ${SOURCE_FILES})
 target_link_libraries(${PROJECT_NAME} OpenGL::GL glfw libglew_static)
 

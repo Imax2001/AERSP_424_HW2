@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/Desktop/AERSP_424_HW2/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/Desktop/AERSP_424_HW2/_deps/glfw-subbuild/CMakeFiles/02d46d51d2e7040a962fdbda1a4b65ee/glfw-populate.rule
+C:/Desktop/AERSP_424_HW2/_deps/glfw-subbuild/CMakeFiles/b2b18a137b739a5633b6b52061a11a02/glfw-populate-complete.rule
+C:/Desktop/AERSP_424_HW2/_deps/glfw-subbuild/CMakeFiles/d16257bbe0a4ad27eef1afcd4c7b8409/glfw-populate-build.rule
+C:/Desktop/AERSP_424_HW2/_deps/glfw-subbuild/CMakeFiles/d16257bbe0a4ad27eef1afcd4c7b8409/glfw-populate-configure.rule
+C:/Desktop/AERSP_424_HW2/_deps/glfw-subbuild/CMakeFiles/d16257bbe0a4ad27eef1afcd4c7b8409/glfw-populate-download.rule
+C:/Desktop/AERSP_424_HW2/_deps/glfw-subbuild/CMakeFiles/d16257bbe0a4ad27eef1afcd4c7b8409/glfw-populate-install.rule
+C:/Desktop/AERSP_424_HW2/_deps/glfw-subbuild/CMakeFiles/d16257bbe0a4ad27eef1afcd4c7b8409/glfw-populate-mkdir.rule
+C:/Desktop/AERSP_424_HW2/_deps/glfw-subbuild/CMakeFiles/d16257bbe0a4ad27eef1afcd4c7b8409/glfw-populate-patch.rule
+C:/Desktop/AERSP_424_HW2/_deps/glfw-subbuild/CMakeFiles/d16257bbe0a4ad27eef1afcd4c7b8409/glfw-populate-test.rule
+C:/Desktop/AERSP_424_HW2/_deps/glfw-subbuild/CMakeFiles/d16257bbe0a4ad27eef1afcd4c7b8409/glfw-populate-update.rule

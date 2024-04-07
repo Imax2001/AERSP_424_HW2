@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Desktop\AERSP_424_HW2\_deps\glew-subbuild\CMakeFiles\d7599e3782a79e8232340263f0bbb5cb\glew-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Desktop\AERSP_424_HW2\_deps\glew-subbuild\CMakeFiles\d7599e3782a79e8232340263f0bbb5cb\glew-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Desktop\AERSP_424_HW2\_deps\glew-subbuild\CMakeFiles\d7599e3782a79e8232340263f0bbb5cb\glew-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Desktop\AERSP_424_HW2\_deps\glew-subbuild\CMakeFiles\d7599e3782a79e8232340263f0bbb5cb\glew-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Desktop\AERSP_424_HW2\_deps\glew-subbuild\CMakeFiles\d7599e3782a79e8232340263f0bbb5cb\glew-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Desktop\AERSP_424_HW2\_deps\glew-subbuild\CMakeFiles\d7599e3782a79e8232340263f0bbb5cb\glew-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Desktop\AERSP_424_HW2\_deps\glew-subbuild\CMakeFiles\d7599e3782a79e8232340263f0bbb5cb\glew-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Desktop\AERSP_424_HW2\_deps\glew-subbuild\CMakeFiles\d7599e3782a79e8232340263f0bbb5cb\glew-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Desktop\AERSP_424_HW2\_deps\glew-subbuild\CMakeFiles\7e282a85992792b2a622f17743fe9fee\glew-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Desktop\AERSP_424_HW2\_deps\glew-subbuild\CMakeFiles\e3f823eb80ec00de48aa58e507aa3fdd\glew-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Desktop\AERSP_424_HW2\_deps\glew-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Desktop\AERSP_424_HW2\_deps\glew-subbuild\CMakeFiles\glew-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7CAECD5E-B859-39B1-A83D-E339B71EA3C1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

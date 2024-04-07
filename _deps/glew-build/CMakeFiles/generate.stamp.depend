@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Desktop/AERSP_424_HW2/_deps/glew-src/CMakeLists.txt
+C:/Desktop/AERSP_424_HW2/_deps/glew-src/GeneratePkgConfig.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.28/Modules/FindPackageMessage.cmake

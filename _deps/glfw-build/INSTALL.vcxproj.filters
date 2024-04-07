@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Desktop\AERSP_424_HW2\CMakeFiles\4ea90a960e3d4fd9d6ad0186cd7bb0c0\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D828BED2-D8FE-3808-923A-E12106BD7015}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

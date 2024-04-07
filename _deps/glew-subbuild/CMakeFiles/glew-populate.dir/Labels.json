@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Desktop/AERSP_424_HW2/_deps/glew-subbuild/CMakeFiles/glew-populate"
+		},
+		{
+			"file" : "C:/Desktop/AERSP_424_HW2/_deps/glew-subbuild/CMakeFiles/e3f823eb80ec00de48aa58e507aa3fdd/glew-populate.rule"
+		},
+		{
+			"file" : "C:/Desktop/AERSP_424_HW2/_deps/glew-subbuild/CMakeFiles/7e282a85992792b2a622f17743fe9fee/glew-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Desktop/AERSP_424_HW2/_deps/glew-subbuild/CMakeFiles/d7599e3782a79e8232340263f0bbb5cb/glew-populate-build.rule"
+		},
+		{
+			"file" : "C:/Desktop/AERSP_424_HW2/_deps/glew-subbuild/CMakeFiles/d7599e3782a79e8232340263f0bbb5cb/glew-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Desktop/AERSP_424_HW2/_deps/glew-subbuild/CMakeFiles/d7599e3782a79e8232340263f0bbb5cb/glew-populate-download.rule"
+		},
+		{
+			"file" : "C:/Desktop/AERSP_424_HW2/_deps/glew-subbuild/CMakeFiles/d7599e3782a79e8232340263f0bbb5cb/glew-populate-install.rule"
+		},
+		{
+			"file" : "C:/Desktop/AERSP_424_HW2/_deps/glew-subbuild/CMakeFiles/d7599e3782a79e8232340263f0bbb5cb/glew-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Desktop/AERSP_424_HW2/_deps/glew-subbuild/CMakeFiles/d7599e3782a79e8232340263f0bbb5cb/glew-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Desktop/AERSP_424_HW2/_deps/glew-subbuild/CMakeFiles/d7599e3782a79e8232340263f0bbb5cb/glew-populate-test.rule"
+		},
+		{
+			"file" : "C:/Desktop/AERSP_424_HW2/_deps/glew-subbuild/CMakeFiles/d7599e3782a79e8232340263f0bbb5cb/glew-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glew-populate"
+		],
+		"name" : "glew-populate"
+	}
+}
