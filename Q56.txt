@@ -1,0 +1,5 @@
+Q5.) If the robot is assigned a task right after it completes its first one, it will never set down the tools to allow another robot to finishe their first task.
+Potentially, the algorithm for Q2 could be modified to work cyclically so that after one robot finishes its task, it sets down its tools and waits for the cycle to finish to start back up again.
+
+Q6.) I found it difficult to figure out how to spawn threads within a loop as well as how to space out the arrival of airplanes so that the final 7 weren't just turned away every time.
+If the other tasks were to take time, it would take longer for planes to land which means more planes would be turned away. We could artifically increase the time between plane arrivals to fix this.
